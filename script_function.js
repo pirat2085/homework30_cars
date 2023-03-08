@@ -20,20 +20,20 @@ function Cars(props) {
 
 const cars = [
     {
-        serialNumber: 'SN123',
-        model: 'Tesla Model S',
+        serialNumber: '12345',
+        model: 'Model S',
         manufacturer: 'Tesla',
         year: 2020,
     },
     {
-        serialNumber: 'SN456',
-        model: 'BMW M5',
+        serialNumber: '23456',
+        model: 'M5',
         manufacturer: 'BMW',
         year: 2021,
     },
     {
-        serialNumber: 'SN789',
-        model: 'Mercedes-Benz S-Class',
+        serialNumber: '34567',
+        model: 'S-Class',
         manufacturer: 'Mercedes-Benz',
         year: 2019,
     },
